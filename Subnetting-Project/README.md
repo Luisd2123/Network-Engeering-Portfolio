@@ -19,3 +19,11 @@ The company has the following departments:
 - Accounting (6 hosts)
 - Server Room (2 hosts)
 
+## 3. Objectives
+
+What you were trying to achieve:
+
+- Design a VLSM subnetting plan
+- Assign IP ranges per department
+- Assign IP addresses to end devices
+

@@ -1,0 +1,26 @@
+PC Configurations
+To avoid repetition i used one pc to represent the whole department
+PC1 in Engneering (60 hosts):
+ -IP address: 192.168.10.1
+ -Subnet Mask: 255.255.255.192
+ -Default Gateway: 192.168.10.62
+PC2 in Sales (30 hosts): 
+ -IP address: 192.168.10.65
+ -Subnet Mask: 255.255.255.224
+ -Default Gateway: 192.168.10.94
+PC3 in HR (15 hosts)
+ -IP address: 192.168.10.97
+ -Subent Mask: 255.255.255.224
+ -Default Gateway: 192.168.10.126
+PC4 in IT (10 hosts)
+ -IP address: 192.168.10.129
+ -Subnet Mask: 255.255.255.240
+ -Default Gateway: 192.168.10.142
+PC5 in Accounting (6 hosts)
+ -IP address: 192.168.10.145
+ -Subnet Mask: 255.255.255.248
+ -Default Gateway: 192.168.10.150
+PC6 in Server (2 hosts)
+ -IP address: 192.168.10.153
+ -Subnet Mask: 255.255.255.252
+ -Default Gateway: 192.168.10.154
